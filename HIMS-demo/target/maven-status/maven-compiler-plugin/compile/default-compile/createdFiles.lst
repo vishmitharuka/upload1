@@ -1,0 +1,10 @@
+entities\Patient.class
+com\mycompany\hims\demo\JAXRSConfiguration.class
+entities\Item.class
+com\mycompany\hims\demo\resources\JavaEE8Resource.class
+entities\Order.class
+entities\Institution.class
+entities\Staff.class
+Controllers\StaffControllers.class
+Controllers\PatientController.class
+entities\OrderItem.class
